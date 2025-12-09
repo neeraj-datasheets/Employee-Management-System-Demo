@@ -21,7 +21,7 @@ A complete Employee Management &amp; Analysis System built using Google Sheets, 
    Transaction Ledger
    Employee-Wise Analysis Dashboard
 
-    Tech Used- Google Sheets- Pivot Tables- VLOOKUP / FILTER / COUNTIF- Dynamic Charts- Conditional Formatting
+    **Tech Used- Google Sheets- Pivot Tables- VLOOKUP / FILTER / COUNTIF- Dynamic Charts- Conditional Formatting**
     
    **How to Use** :
  1. Add employee master data.
