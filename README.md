@@ -1,7 +1,7 @@
 # Employee-Management-System-Demo
 A complete Employee Management &amp; Analysis System built using Google Sheets, designed  to help companies track attendance, salary, monthly performance, and employee financial records  in one centralized dashboard
 
-Features
+**Features** :
 
  1. Employee Info Panel
  Displays:- Employee ID- Name- Department- Designation- Date of Joining- Status
@@ -13,8 +13,7 @@ Features
  Shows:- Payable Salary- Paid Salary- Payment Status (Paid / Not Paid)
  5. Employee Transaction Records
  Includes:- Salary- Advance- Deductions etc.
-
- // Screens Included :
+ **Screens Included** :
    Employee Overview
    Attendance Sheet
    Salary Sheet
@@ -23,10 +22,20 @@ Features
    Employee-Wise Analysis Dashboard
 
     Tech Used- Google Sheets- Pivot Tables- VLOOKUP / FILTER / COUNTIF- Dynamic Charts- Conditional Formatting
-     How to Use
+    
+   **How to Use** :
  1. Add employee master data.
  2. Fill attendance & salary sheets.
  3. Dashboard updates automatically.
 
  Perfect For- HR professionals- Payroll teams- Small & Medium companies- Contractors & Construction companies- Anyone managing multiple employee
+
+ **sheets are in the form of pdf uploaded**
+ **Graphs are uploaded in picture format**
+
+ **Follow on Instrgramm : @datawithneeraj for more..**
+
+ 
+
+ 
     
